@@ -1,1 +1,1 @@
-{"message":"i love you ❤\nSo much!","size":20}
+{"message":"אני כל כך אוהב אותך! ❤","size":20}
